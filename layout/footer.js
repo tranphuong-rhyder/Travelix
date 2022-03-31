@@ -105,21 +105,21 @@ footer.innerHTML = `
                 <div class="footer__container__contact__content">
                   <div class="container__contact__info">
                     <div class="container__contact__info--img">
-                      <img src="assets/images/placeholder.svg" alt="" />
+                      <img src="../assets/images/placeholder.svg" alt="" />
                     </div>
                     <span>Thuong Tin - Ha Noi</span>
                   </div>
                   <div class="container__contact__info">
                     <div class="container__contact__info--img">
-                      <img src="assets/images/message.svg" alt="" />
+                      <img src="../assets/images/message.svg" alt="" />
                     </div>
-                    <span>+84 378 709 602</span>
+                    <span>tranphuong18032001@gmail.com</span>
                   </div>
                   <div class="container__contact__info">
                     <div class="container__contact__info--img">
-                      <img src="assets/images/phone-call.svg" alt="" />
+                      <img src="../assets/images/phone-call.svg" alt="" />
                     </div>
-                    <span>tranphuong18032001@gmail.com</span>
+                    <span>+84 378 709 602</span>
                   </div>
                 </div>
               </div>
