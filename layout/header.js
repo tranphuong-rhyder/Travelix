@@ -1,4 +1,4 @@
-let header =  document.querySelector('.header');
+let header = document.querySelector('.header');
 header.innerHTML = `
 <div class="header__topbar">
 <div class="grid wide">
@@ -6,7 +6,7 @@ header.innerHTML = `
     <div class="row">
       <div class="l-6 m-8 c-8">
         <div class="header__topbar__container--contacts">
-          <span>+84 945 000 917</span>
+          <span>+84 378 709 602</span>
           <a href="#"><i class="fab fa-pinterest"></i></a>
           <a href="#"><i class="fab fa-facebook-f"></i></a>
           <a href="#"><i class="fab fa-twitter"></i></a>
